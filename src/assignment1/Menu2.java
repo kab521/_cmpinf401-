@@ -5,9 +5,8 @@
 	 */
 
 package assignment1;
-
 public class Menu2 {
-
+	
 public static void main(String[] args) {
 		
 Entree e1 = new Entree("Sirloin Steak","A delicious piece of 1/2" + " pound of our carefully selected meat grilled and seasoned.",600);
@@ -21,8 +20,6 @@ m1.setEntree(e1);
 m1.setSalad(salad1);
 Menu1 m2 = new Menu1("Menu 2", e2, side1, salad2, d1);
 System.out.print(m1);
-System.out.print(m2);
-		
+System.out.print(m2);	
 	}
-
 }
