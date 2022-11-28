@@ -42,6 +42,7 @@ public class Student extends Person{
 		String s = "Student Name: "+this.getName()+"\n"+"Student Address:"+this.getAddress()+"\n"
 				+"Student Program:"+this.getProgram()+"\n"+"Year:"+this.getYear()+"\n"+"Fee:"+this.getFee()+"\n";
 		return s;
+		//could not find out how to make a driver similar to task 1
 	}
 	
 }

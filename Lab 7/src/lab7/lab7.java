@@ -78,17 +78,6 @@ char[] inChar = in.toCharArray();
 	}
 }
 
-/*
- * notes?
- * 
- * 
- * 
- * 
- * 
- * 
- */
-
-
 
 
 
