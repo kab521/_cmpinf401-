@@ -1,5 +1,0 @@
-Chicken@@lemon chicken@@400
-Fish@@Salmon@@100
-Crab@@fresh crab@@750
-Steak@@rare steak@@900
-Beef@@very fresh beef@@700
