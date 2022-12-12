@@ -1,0 +1,48 @@
+___________________________Randomized Menu 1!___________________________
+Entree is: Pasta(Any shape imaginable.). Calories: 820 Price: 30.0
+Side is: Rice(only one grain.). Calories: 140 Price: 2.43
+Salad is: Plain Romaine Lettuce(exactly what the title says.). Calories: 210 Price: 2000.0
+Dessert is: Pie(pot pie). Calories: 200 Price: 1.0
+Menu Total Cals: 1370	Menu Total Price: 2033.43
+___________________________Randomized Menu 2!___________________________
+Entree is: Hot pockets(Microwaved to your liking.). Calories: 430 Price: 1000.99
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Garden(lettuce and toppings). Calories: 120 Price: 232.9
+Dessert is: Brownie(chocolate). Calories: 175 Price: 30.0
+Menu Total Cals: 885	Menu Total Price: 1265.89
+___________________________Randomized Menu 3!___________________________
+Entree is: Salmon(Fresh). Calories: 560 Price: 40.0
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Plain Romaine Lettuce(exactly what the title says.). Calories: 210 Price: 2000.0
+Dessert is: Pie(pot pie). Calories: 200 Price: 1.0
+Menu Total Cals: 1130	Menu Total Price: 2043.0
+___________________________Randomized Menu 4!___________________________
+Entree is: Chicken(vegetarians favorite). Calories: 740 Price: 50.0
+Side is: Rice(only one grain.). Calories: 140 Price: 2.43
+Salad is: Plain Romaine Lettuce(exactly what the title says.). Calories: 210 Price: 2000.0
+Dessert is: Brownie(chocolate). Calories: 175 Price: 30.0
+Menu Total Cals: 1265	Menu Total Price: 2082.43
+___________________________Randomized Menu 5!___________________________
+Entree is: Hot pockets(Microwaved to your liking.). Calories: 430 Price: 1000.99
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Greek(whatever goes in greek salad). Calories: 90 Price: 200.0
+Dessert is: Brownie(chocolate). Calories: 175 Price: 30.0
+Menu Total Cals: 855	Menu Total Price: 1232.99
+___________________________Randomized Menu 6!___________________________
+Entree is: Salmon(Fresh). Calories: 560 Price: 40.0
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Garden(lettuce and toppings). Calories: 120 Price: 232.9
+Dessert is: Cake(today's flavor is vanilla). Calories: 250 Price: 3.0
+Menu Total Cals: 1090	Menu Total Price: 277.9
+___________________________Randomized Menu 7!___________________________
+Entree is: Pasta(Any shape imaginable.). Calories: 820 Price: 30.0
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Garden(lettuce and toppings). Calories: 120 Price: 232.9
+Dessert is: Brownie(chocolate). Calories: 175 Price: 30.0
+Menu Total Cals: 1275	Menu Total Price: 294.9
+___________________________Randomized Menu 8!___________________________
+Entree is: Hot pockets(Microwaved to your liking.). Calories: 430 Price: 1000.99
+Side is: bread rolls(warm). Calories: 160 Price: 2.0
+Salad is: Plain Romaine Lettuce(exactly what the title says.). Calories: 210 Price: 2000.0
+Dessert is: Pie(pot pie). Calories: 200 Price: 1.0
+Menu Total Cals: 1000	Menu Total Price: 3003.99
