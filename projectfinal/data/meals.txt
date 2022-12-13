@@ -1,0 +1,23 @@
+Pasta@@entree@@(Any shape imaginable.)@@820@@30.00
+
+Salmon@@entree@@(Fresh)@@560@@40.00
+
+Chicken@@entree@@(vegetarians favorite)@@740@@50.00
+
+bread rolls@@side@@(warm)@@160@@2.00
+
+Fruit@@ side@@(any fruit you want)@@270@@5.40
+
+Rice@@side@@(only one grain.)@@140@@2.43
+
+Greek@@salad@@(whatever goes in greek salad)@@90@@200.00
+
+Caesar@@salad@@(comes with chicken)@@195@@16.00
+
+Garden@@salad@@(lettuce and toppings)@@120@@232.90
+
+Cake@@dessert@@(today's flavor is vanilla)@@250@@3.00
+
+Pie@@dessert@@(pot pie)@@200@@1.00
+
+Brownie@@dessert@@(chocolate)@@175@@30.00
