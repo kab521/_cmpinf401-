@@ -1,5 +1,0 @@
-Brownies@@(Rich chocolate)@@700
-Cookies@@(Chocolate Chip)@@302
-Cake@@(Many flavors)@@200
-Pie@@(Strawberry pie)@@933
-Pudding@@(chocolate pudding)@@273
